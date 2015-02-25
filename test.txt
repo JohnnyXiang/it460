@@ -9,6 +9,7 @@ test no.7
 test no.8
 add new line from it460
 add new line from it660
+inset a new line from it460
 add new line from it660 again
 insert new line from it660
 insert another line from it660
